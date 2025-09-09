@@ -15,7 +15,6 @@ It follows a clean project structure with modular code for **data loading, prepr
 ## 📂 Repository Structure
 ```bash
 mnist-logistic-regression/
-├── data/ # dataset (optional, auto-fetched via sklearn)
 ├── notebooks/ # exploratory Jupyter notebooks
 ├── src/ # source code
 │ ├── data_loader.py # data fetching & preprocessing
