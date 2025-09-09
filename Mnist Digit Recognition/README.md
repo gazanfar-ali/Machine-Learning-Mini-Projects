@@ -26,7 +26,10 @@ mnist-logistic-regression/
 └── README.md # project documentation
 ```
 
----
+## Google Colab File Link: 
+```bash
+https://colab.research.google.com/drive/1kTGk3ST2uGH0hA20NFMc0j5MmoDvo2Al?usp=sharing
+```
 
 ## 📊 Results
 - Model: Logistic Regression
@@ -38,4 +41,4 @@ mnist-logistic-regression/
   - Gazanfar Ali
    -BSc Artificial Intelligence, UMT Lahore
    - 📧 itsgazanfar@gmail.com
-   - 🌐 LinkedIn: 
+   - 🌐 LinkedIn: https://www.linkedin.com/in/gazanfar-ali
